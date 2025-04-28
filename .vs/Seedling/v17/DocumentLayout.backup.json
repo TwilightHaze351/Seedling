@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MacKe\\source\\repos\\Seedling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\tests\\unit_tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:tests\\unit_tests.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\Seedling.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:Seedling.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\components\\MemoryFeed.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:frontend\\components\\MemoryFeed.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\components\\TraitViewer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:frontend\\components\\TraitViewer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\components\\ChatBox.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:frontend\\components\\ChatBox.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:frontend\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\utils\\formatters.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:utils\\formatters.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\database\\db_interface.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:database\\db_interface.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\ethics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:seedling_core\\ethics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\traits.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:seedling_core\\traits.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\emotions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:seedling_core\\emotions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\memory.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:seedling_core\\memory.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\intent_generator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:seedling_core\\intent_generator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|C:\\Users\\MacKe\\source\\repos\\Seedling\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{02157471-C4E7-4687-A7BB-CD0C5047C309}|Seedling.pyproj|solutionrelative:database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-28T20:25:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\README.md*",
+              "RelativeToolTip": "README.md*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-28T20:24:57.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\requirements.txt*",
+              "RelativeToolTip": "requirements.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-28T20:24:15.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "unit_tests.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\tests\\unit_tests.py",
+              "RelativeDocumentMoniker": "tests\\unit_tests.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\tests\\unit_tests.py*",
+              "RelativeToolTip": "tests\\unit_tests.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T20:22:11.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemoryFeed.jsx",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\components\\MemoryFeed.jsx",
+              "RelativeDocumentMoniker": "frontend\\components\\MemoryFeed.jsx",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\components\\MemoryFeed.jsx*",
+              "RelativeToolTip": "frontend\\components\\MemoryFeed.jsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-28T20:20:50.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatBox.jsx",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\components\\ChatBox.jsx",
+              "RelativeDocumentMoniker": "frontend\\components\\ChatBox.jsx",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\components\\ChatBox.jsx*",
+              "RelativeToolTip": "frontend\\components\\ChatBox.jsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-28T20:20:02.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TraitViewer.jsx",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\components\\TraitViewer.jsx",
+              "RelativeDocumentMoniker": "frontend\\components\\TraitViewer.jsx",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\components\\TraitViewer.jsx",
+              "RelativeToolTip": "frontend\\components\\TraitViewer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-28T20:18:05.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\App.jsx",
+              "RelativeDocumentMoniker": "frontend\\App.jsx",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\frontend\\App.jsx",
+              "RelativeToolTip": "frontend\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-28T20:16:32.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "db_interface.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\database\\db_interface.py",
+              "RelativeDocumentMoniker": "database\\db_interface.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\database\\db_interface.py*",
+              "RelativeToolTip": "database\\db_interface.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T20:15:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "schema.sql ",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\database\\schema.sql",
+              "RelativeDocumentMoniker": "database\\schema.sql",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\database\\schema.sql*",
+              "RelativeToolTip": "database\\schema.sql*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-28T20:14:54.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "formatters.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\utils\\formatters.py",
+              "RelativeDocumentMoniker": "utils\\formatters.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\utils\\formatters.py*",
+              "RelativeToolTip": "utils\\formatters.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T20:12:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ethics.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\ethics.py",
+              "RelativeDocumentMoniker": "seedling_core\\ethics.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\ethics.py*",
+              "RelativeToolTip": "seedling_core\\ethics.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T19:59:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "intent_generator.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\intent_generator.py",
+              "RelativeDocumentMoniker": "seedling_core\\intent_generator.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\intent_generator.py*",
+              "RelativeToolTip": "seedling_core\\intent_generator.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T19:57:16.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "memory.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\memory.py",
+              "RelativeDocumentMoniker": "seedling_core\\memory.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\memory.py*",
+              "RelativeToolTip": "seedling_core\\memory.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T19:56:25.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "emotions.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\emotions.py",
+              "RelativeDocumentMoniker": "seedling_core\\emotions.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\emotions.py*",
+              "RelativeToolTip": "seedling_core\\emotions.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T19:56:07.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "traits.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\traits.py",
+              "RelativeDocumentMoniker": "seedling_core\\traits.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\seedling_core\\traits.py*",
+              "RelativeToolTip": "seedling_core\\traits.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T19:55:44.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\main.py*",
+              "RelativeToolTip": "main.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T19:54:41.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seedling.py",
+              "DocumentMoniker": "C:\\Users\\MacKe\\source\\repos\\Seedling\\Seedling.py",
+              "RelativeDocumentMoniker": "Seedling.py",
+              "ToolTip": "C:\\Users\\MacKe\\source\\repos\\Seedling\\Seedling.py",
+              "RelativeToolTip": "Seedling.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-28T09:42:48.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

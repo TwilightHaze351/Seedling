@@ -1,0 +1,62 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>02157471-c4e7-4687-a7bb-cd0c5047c309</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Seedling.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Seedling</Name>
+    <RootNamespace>Seedling</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="database\db_interface.py" />
+    <Compile Include="main.py" />
+    <Compile Include="seedling_core\emotions.py" />
+    <Compile Include="seedling_core\ethics.py" />
+    <Compile Include="seedling_core\intent_generator.py" />
+    <Compile Include="seedling_core\memory.py" />
+    <Compile Include="seedling_core\traits.py" />
+    <Compile Include="Seedling.py" />
+    <Compile Include="tests\unit_tests.py" />
+    <Compile Include="utils\formatters.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="database\" />
+    <Folder Include="frontend\" />
+    <Folder Include="frontend\components\" />
+    <Folder Include="tests\" />
+    <Folder Include="utils\" />
+    <Folder Include="seedling_core\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include="database\schema.sql" />
+    <Content Include="frontend\App.jsx" />
+    <Content Include="frontend\components\ChatBox.jsx" />
+    <Content Include="frontend\components\MemoryFeed.jsx" />
+    <Content Include="frontend\components\TraitViewer.jsx" />
+    <Content Include="README.md" />
+    <Content Include="requirements.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

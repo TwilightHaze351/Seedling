@@ -1,0 +1,4 @@
+pyodbc
+sqlalchemy
+flask    # Only if you want to add web APIs later
+react    # (separate frontend, not installed by Python)
